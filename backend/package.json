@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "yarn ts-node src/index.ts"
+  },
   "devDependencies": {
     "@prisma/client": "^4.13.0",
     "@types/node": "^18.15.12",
