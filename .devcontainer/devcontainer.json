@@ -11,7 +11,8 @@
 				"mquandalle.graphql",
 				"Prisma.prisma",
 				"apollographql.vscode-apollo",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
