@@ -1,0 +1,7 @@
+{
+  "name": "jobpos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yohei Shiina <ysys.j.0125@gmail.com>",
+  "license": "MIT"
+}
